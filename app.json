@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Azur",
+    "slug": "azur-vocab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#060A14",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.azur.vocab",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#060A14"
+      }
+    }
+  }
+}
